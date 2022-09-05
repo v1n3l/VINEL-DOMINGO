@@ -201,11 +201,10 @@ Partial Class Form1
         'ListView1
         '
         Me.ListView1.BackColor = System.Drawing.Color.GreenYellow
-        Me.ListView1.BackgroundImage = Global.VINEL_DOMINGO.My.Resources.Resources.HD_wallpaper_asphalt_9_asphalt_9_legends_asphalt9_car_gameloft_legends_thumbnail
         Me.ListView1.HideSelection = False
-        Me.ListView1.Location = New System.Drawing.Point(301, 74)
+        Me.ListView1.Location = New System.Drawing.Point(254, 74)
         Me.ListView1.Name = "ListView1"
-        Me.ListView1.Size = New System.Drawing.Size(339, 353)
+        Me.ListView1.Size = New System.Drawing.Size(434, 353)
         Me.ListView1.TabIndex = 18
         Me.ListView1.UseCompatibleStateImageBehavior = False
         '
