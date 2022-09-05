@@ -184,6 +184,18 @@
   <ItemGroup>
     <None Include="Resources\HD-wallpaper-asphalt-9-cars-logo-mercedes-new-solo-time-turkey.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Best Asphalt 9 Legends HD Wallpaper For PC Computer %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fabiano-di-liso-thumbnail.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8721fb4f-051a-4a49-a363-20e4d18943f1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photo-1623543965216-64e0dae5bfc0.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <Import Project="packages\System.Text.Json.6.0.0\build\System.Text.Json.targets" Condition="Exists('packages\System.Text.Json.6.0.0\build\System.Text.Json.targets')" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

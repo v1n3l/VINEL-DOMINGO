@@ -93,6 +93,36 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
+        Friend ReadOnly Property _8721fb4f_051a_4a49_a363_20e4d18943f1() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("8721fb4f-051a-4a49-a363-20e4d18943f1", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property Best_Asphalt_9_Legends_HD_Wallpaper_For_PC_Computer__1_() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Best Asphalt 9 Legends HD Wallpaper For PC Computer (1)", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property fabiano_di_liso_thumbnail() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("fabiano-di-liso-thumbnail", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
         Friend ReadOnly Property HD_wallpaper_asphalt_9_asphalt_9_legends_asphalt9_car_gameloft_legends_thumbnail() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("HD-wallpaper-asphalt-9-asphalt-9-legends-asphalt9-car-gameloft-legends-thumbnail", resourceCulture)
@@ -106,6 +136,16 @@ Namespace My.Resources
         Friend ReadOnly Property HD_wallpaper_asphalt_9_cars_logo_mercedes_new_solo_time_turkey() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("HD-wallpaper-asphalt-9-cars-logo-mercedes-new-solo-time-turkey", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property photo_1623543965216_64e0dae5bfc0() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("photo-1623543965216-64e0dae5bfc0", resourceCulture)
                 Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property

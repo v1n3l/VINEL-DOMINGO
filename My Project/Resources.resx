@@ -118,22 +118,34 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="red-honeycomb-abstract-hd-wallpaper-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\red-honeycomb-abstract-hd-wallpaper-preview.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="HD-wallpaper-asphalt-9-asphalt-9-legends-asphalt9-car-gameloft-legends-thumbnail" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\HD-wallpaper-asphalt-9-asphalt-9-legends-asphalt9-car-gameloft-legends-thumbnail.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="5aa40b64a506bfbd5c17ef0112fb01d5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\5aa40b64a506bfbd5c17ef0112fb01d5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="5aa40b64a506bfbd5c17ef0112fb01d51" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\5aa40b64a506bfbd5c17ef0112fb01d51.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="1007847" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\1007847.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Best Asphalt 9 Legends HD Wallpaper For PC Computer (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Best Asphalt 9 Legends HD Wallpaper For PC Computer (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="HD-wallpaper-asphalt-9-cars-logo-mercedes-new-solo-time-turkey" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\HD-wallpaper-asphalt-9-cars-logo-mercedes-new-solo-time-turkey.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fabiano-di-liso-thumbnail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fabiano-di-liso-thumbnail.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1007847" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1007847.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5aa40b64a506bfbd5c17ef0112fb01d5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5aa40b64a506bfbd5c17ef0112fb01d5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red-honeycomb-abstract-hd-wallpaper-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red-honeycomb-abstract-hd-wallpaper-preview.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="8721fb4f-051a-4a49-a363-20e4d18943f1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8721fb4f-051a-4a49-a363-20e4d18943f1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="photo-1623543965216-64e0dae5bfc0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\photo-1623543965216-64e0dae5bfc0.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
